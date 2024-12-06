@@ -1,5 +1,5 @@
 # Spam_Detection_with_ML
-This aim of this project is to design a robust spam detection system that effectively classifies emails and minimizes false positives and negatives.
+This project is a robust spam detection system that effectively classifies emails and minimizes false positives and negatives.
 
 ### Table of Contents
 
