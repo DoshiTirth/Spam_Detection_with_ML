@@ -75,15 +75,14 @@ Email spam poses a major threat by exposing users to scams, phishing, and malwar
   ```bash
    https://github.com/DoshiTirth/Spam_Detection_with_ML.git
    ```
-4. Make one virtual environment:
-   ```bash
-   
-   ```
 4. Go inside the directory
 ```bash
-
+cd Spam_Detection_with_ML
 ```
-
+5. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 ## Usage
 
 ## Results
