@@ -16,7 +16,14 @@ This project implements a Spam Detection System using machine learning. The syst
 Email spam poses a major threat by exposing users to scams, phishing, and malware. Current filters often fail, leading to misclassified emails. This project aims to create a more reliable spam detection system using machine learning to develop a more dependable spam detection system.
 
 ## Dataset
-
+- Source: Spam Dataset
+- The dataset contains labeled email messages with the following labels:
+      - spam: Unwanted messages.
+      - ham: Legitimate messages.
+- Preprocessing Steps:
+      - Dropped unnecessary columns.
+      - Removed null values.
+      - Applied lemmatization and stopword removal to clean the text data.
 ## Technologies Used
 
 ## Workflow
