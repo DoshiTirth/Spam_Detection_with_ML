@@ -54,6 +54,19 @@ Email spam poses a major threat by exposing users to scams, phishing, and malwar
     - Web GUI: `HTML`, `CSS`
 
 ## Workflow
+
+1. **Data Cleaning:** Remove unnecessary columns and handle missing values.
+2. **Text Preprocessing:** Apply lemmatization and stopword removal.
+3. **Dataset Splitting:** Divide data into training (75%) and testing (25%).
+4. **TF-IDF Vectorization:** Convert textual data into numerical features.
+5. **Model Training:**
+  - Train models using:
+      - Multinomial Naive Bayes.
+      - Random Forest Regression.
+      - XGBoost (with hyperparameter tuning using GridSearchCV).
+6. **Model Evaluation:** Measure performance using metrics like accuracy, precision, recall, and F1-score.
+7. **Save Model:** Save the trained model using pickle.
+8. **Web Interface:** Build a Flask app for real-time email spam detection.
                          
 ## Installation
 
