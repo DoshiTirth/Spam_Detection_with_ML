@@ -27,7 +27,7 @@ Email spam poses a major threat by exposing users to scams, phishing, and malwar
   1. Dropped unnecessary columns (`Unnamed: 2`, `Unnamed: 3`, `Unnamed: 4`).
   2. Handled missing values by removing rows with null values.
   3. Applied **text preprocessing**:
-     - Lowercased the text.
+     - Lowercase the text.
      - Removed stopwords, numbers, and punctuation.
      - Applied lemmatization to reduce words to their base forms.
 
@@ -42,8 +42,16 @@ Email spam poses a major threat by exposing users to scams, phishing, and malwar
 - The dataset has been split into **75% training** and **25% testing** sets.
 - The **TF-IDF Vectorizer** was used to convert the textual data into numerical features for machine learning models.
   
-
 ## Technologies Used
+
+- **Languages:** `Python`
+**Libraries:**
+  - Machine Learning: `scikit-learn`, `xgboost`
+  - Text Processing: `nltk`, `re`
+  - Visualization: `matplotlib`, `seaborn`, `wordcloud`
+  - Utilities: `pandas`, `numpy`, `pickle`
+  - Server: `Flask`
+  - Web GUI: `HTML`, `CSS`
 
 ## Workflow
                          
