@@ -45,13 +45,13 @@ Email spam poses a major threat by exposing users to scams, phishing, and malwar
 ## Technologies Used
 
 - **Languages:** `Python`
-**Libraries:**
-  - Machine Learning: `scikit-learn`, `xgboost`
-  - Text Processing: `nltk`, `re`
-  - Visualization: `matplotlib`, `seaborn`, `wordcloud`
-  - Utilities: `pandas`, `numpy`, `pickle`
-  - Server: `Flask`
-  - Web GUI: `HTML`, `CSS`
+ - **Libraries:**
+    - Machine Learning: `scikit-learn`, `xgboost`
+    - Text Processing: `nltk`, `re`
+    - Visualization: `matplotlib`, `seaborn`, `wordcloud`
+    - Utilities: `pandas`, `numpy`, `pickle`
+    - Server: `Flask`
+    - Web GUI: `HTML`, `CSS`
 
 ## Workflow
                          
