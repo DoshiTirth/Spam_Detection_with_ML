@@ -1,3 +1,5 @@
+Tirth Doshi
+Chandrika Ghale
 # Spam Detection Using Machine Learning Model
 This project implements a Spam Detection System using machine learning. The system classifies email messagees as "Spam" or "Ham" based on their texual content. It incorporates TF-IDF Vectorization, Naive Bayes, Logistic Regression, XGBoost, and hyperparameter tuning to achieve high accuracy.
 
