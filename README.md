@@ -18,8 +18,8 @@ Email spam poses a major threat by exposing users to scams, phishing, and malwar
 ## Dataset
 - **Source:** [Spam Dataset](https://github.com/Apaulgithub/oibsip_taskno4/blob/main/spam.csv)
 - The dataset contains email messages labeled as:
-  - **spam**: Unwanted or junk emails.
-  - **ham**: Legitimate emails.
+  - **`spam`**: Unwanted or junk emails.
+  - **`ham`**: Legitimate emails.
 - **Columns in the dataset**:
   - `Category`: Specifies whether the message is "spam" or "ham".
   - `Message`: The actual content of the email.
