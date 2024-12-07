@@ -1,23 +1,32 @@
-# Spam_Detection_with_ML
-This project is a robust spam detection system that effectively classifies emails and minimizes false positives and negatives.
+# Spam Detection Using Machine Learning Model
+This project implements a Spam Detection System using machine learning. The system classifies email messagees as "Spam" or "Ham" based on their texual content. It incorporates TF-IDF Vectorization, Naive Bayes, Logistic Regression, XGBoost, and hyperparameter tuning to achieve high accuracy.
 
-### Table of Contents
+## Table of Contents
+[Introduction](#introduction)
+[Dataset](#Dataset)
+[Technologies Used](#technologies-used)
+[Workflow](#workflow)
+[Installation](#installation)
+[Usage](#usage)
+[Results](#results)
+[Contributions](#contributions)
+[Future Work](#future-works)
 
-### Introduction
+## Introduction
 Email spam poses a major threat by exposing users to scams, phishing, and malware. Current filters often fail, leading to misclassified emails. This project aims to create a more reliable spam detection system using machine learning to develop a more dependable spam detection system.
 
-### Dataset
+## Dataset
 
-### Technologies Used
+## Technologies Used
 
-### Workflow
+## Workflow
                          
-### Installation
+## Installation
 
-### Usage
+## Usage
 
-### Results
+## Results
 
-### Contributions
+## Contributions
 
-### Future Work
+## Future Work
