@@ -84,8 +84,27 @@ Email spam poses a major threat by exposing users to scams, phishing, and malwar
   pip install -r requirements.txt
 ```
 ## Usage
+1. Make sure you are still in the same directory.
+2. start Flask server:
+```bash
+   python app.py
+```
+3. Open your browser and navigate to this:
+```bash
+http://127.0.0.1:5000
+```
+4. Enter email message in the GUI and check if it is spam or ham.
 
 ## Results
+**Naive Bayes Model Metrics:**
+- Accuracy: 95%
+- Precision: 94%
+- Recall: 93%
+**Hyperparameter Tuned XGBoost Metrics:**
+- Accuracy: 96%
+- Precision: 96%
+- Recall: 96%
+Although both models performed well, hyperparameter tuning further optimized the XGBoost classifier.
 
 ## Contributions
 
