@@ -69,6 +69,12 @@ Email spam poses a major threat by exposing users to scams, phishing, and malwar
 8. **Web Interface:** Build a Flask app for real-time email spam detection.
                          
 ## Installation
+1. [Download Python if you don't have it installed on your system python version should be >=3.9](https://www.python.org/downloads/release/python-3130/)
+2.  [Download the GitHub desktop If needed](https://desktop.github.com/download/)
+3.  Clone the repository where you want:
+   ```bash
+
+    ```
 
 ## Usage
 
