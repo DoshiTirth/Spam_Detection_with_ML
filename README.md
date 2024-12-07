@@ -73,8 +73,16 @@ Email spam poses a major threat by exposing users to scams, phishing, and malwar
 2.  [Download the GitHub desktop If needed](https://desktop.github.com/download/)
 3.  Clone the repository where you want:
   ```bash
+   https://github.com/DoshiTirth/Spam_Detection_with_ML.git
+   ```
+4. Make one virtual environment:
+   ```bash
    
    ```
+4. Go inside the directory
+```bash
+
+```
 
 ## Usage
 
