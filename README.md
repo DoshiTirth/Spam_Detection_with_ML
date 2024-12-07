@@ -72,17 +72,17 @@ Email spam poses a major threat by exposing users to scams, phishing, and malwar
 1. [Download Python if you don't have it installed on your system python version should be >=3.9](https://www.python.org/downloads/release/python-3130/)
 2.  [Download the GitHub desktop If needed](https://desktop.github.com/download/)
 3.  Clone the repository where you want:
-  ```bash
-   https://github.com/DoshiTirth/Spam_Detection_with_ML.git
-   ```
+```bash
+  https://github.com/DoshiTirth/Spam_Detection_with_ML.git
+```
 4. Go inside the directory
 ```bash
-cd Spam_Detection_with_ML
+  cd Spam_Detection_with_ML
 ```
 5. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+  pip install -r requirements.txt
+```
 ## Usage
 
 ## Results
