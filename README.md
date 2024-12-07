@@ -107,5 +107,11 @@ http://127.0.0.1:5000
 Although both models performed well, hyperparameter tuning further optimized the XGBoost classifier.
 
 ## Contributions
-
+- Applied hyperparameter tuning to XGBoost using GridSearchCV.
+- Built a real-time spam detection system with a Flask web interface.
+- Saved the trained model using pickle for reuse.
+  
 ## Future Work
+- Experiment with advanced NLP models like BERT or GPT for improved accuracy.
+- Incorporate a multilingual spam detection feature.
+- Deploy the system online using platforms like Heroku or AWS for public use.
